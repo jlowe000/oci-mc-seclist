@@ -1,0 +1,5 @@
+[minecraft]
+compartment.name=minecraft
+vcn.name=minecraft-vcn
+subnet.name=Public Subnet-minecraft
+seclist.name=minecraft-seclist
