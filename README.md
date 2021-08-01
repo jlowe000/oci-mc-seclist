@@ -24,7 +24,7 @@ python3 create-seclist.py
 
 To list the IP addresses managed by the Security List
 ```
-python3 create-seclist.py
+python3 list-seclist.py
 ```
 
 To add an IP address (and a name) to be managed by the Security List
